@@ -1,0 +1,22 @@
+{
+  "name": "generate-multiple-pages-with-webpack",
+  "version": "1.0.0",
+  "description": "It's a very simple demo showing how to generate multiple pages with webpack.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "keywords": [
+    "webpack",
+    "multiple pages"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "glob": "^7.1.1",
+    "html-webpack-plugin": "^2.24.1",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
